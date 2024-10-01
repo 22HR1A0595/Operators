@@ -9,7 +9,6 @@ Sample Input and Output1:
 Sample Input and Output2:
 3
 21
-Note: Bold highlighted is the output value.
 """
 c=int(input())
 dAge =((c+3)*4)-3
